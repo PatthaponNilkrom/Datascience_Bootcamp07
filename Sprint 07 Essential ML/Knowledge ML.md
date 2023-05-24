@@ -1,0 +1,25 @@
+### Knowledge 📖
+- Simple ML Pipeline
+- build ML models
+- Supervised
+- Unsupervised
+- Regression
+- Classification
+- Training Model
+- Resampling
+- split, train, score, evaluate, MAE, MSE, rmse
+- Classification And REgression Training -> CARET
+- trainControl
+- Euclidean Distance (KNN model, Kmeans model)
+- grid search
+- tuneLength -> Random Search
+- Common classification metrics -> Accuracy , Precision , Recall, F1, AUC
+- Confusion Matrix
+- Linear Regression
+- Logistic regression
+- Decision Tree
+- Random Forest
+- compare models
+- Regularized Regression -> Overfitting
+- ElasticNet model
+- Ensemble Models
