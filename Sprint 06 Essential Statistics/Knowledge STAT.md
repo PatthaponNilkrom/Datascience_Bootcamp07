@@ -1,0 +1,30 @@
+### Knowledge 📖
+- Probability sampling
+  - Simple Random Sampling (SRS)
+  - Systemetic random sampling
+  - Stratified Random sampling
+- Descriptive Statistics
+  - Measures of Cetral Tendency
+  - Measures of spread
+  - Measures of Position
+- Statistics
+- Margin of error
+- Dimishing Return
+- Confidence
+- Point vs. Intenal
+- Generalization
+- Central limit Theorem
+- Standardization
+- Normalization
+- Inferential Statistics
+  - Comparison
+  - Association 
+  - Prediction 
+- AB Testing
+- Randomized Control Trial (RCT)
+- Distribution (Normal)
+- Hypothesis Testing
+- Statistical Conclusions
+  - Critical Region
+  - p-value
+  - Confidence Interval
