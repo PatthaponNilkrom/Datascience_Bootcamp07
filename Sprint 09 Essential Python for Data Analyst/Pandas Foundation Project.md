@@ -1,4 +1,4 @@
-# Python Project: Pandas Foundation
+# Python Project: Pandas Foundation 🐼
 * Use Pandas Packeges to analyzing project sales data on 2017 to 2019
 * Objective: Pandas Foundation
   * To try pandas to analyze the data to gain insights
