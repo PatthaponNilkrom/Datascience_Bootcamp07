@@ -1,0 +1,81 @@
+---
+title: "HW sprint05 data viz"
+author: "patthapon nilkrom"
+output: html_document
+---
+Explore data frame `diamonds` and create 5 visualizations.
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+head(diamonds)
+```
+
+### Relationship between carat and price
+```{r message=FALSE, warning=FALSE}
+set.seed(24)
+ggplot(diamonds %>% sample_n(500),
+       aes(carat, price)) +
+  geom_point() + 
+  geom_smooth() + 
+  labs (
+      title = "Relationship between carat and price", 
+      caption = "Data source: Diamonds ggplot2")
+```
+
+-> we found a positive relationship between two variables.
+
+
+### Bar chart of diamonds cut by color
+```{r}
+ggplot(diamonds, mapping = aes(cut, fill = color)) +
+  geom_bar(position = "fill") + theme_minimal() + 
+  labs (
+      title = "Bar chart of diamonds cut by color", 
+      caption = "Data source: Diamonds ggplot2")
+
+```
+-> we found chance of finding a grade J color diamond in any cut is very rare.
+
+
+### Relationship between carat and price by color
+```{r}
+set.seed(24)
+ggplot(diamonds %>% sample_n(1000),
+       aes(carat, price, col=carat)) +
+  geom_point() +
+  geom_smooth(method = lm) + 
+  theme_minimal() +
+  facet_wrap(~color) +
+  labs (
+      title = "Relationship between carat and price by color", 
+      caption = "Data source: Diamonds ggplot2")
+```
+-> we found carat weight affected the price of diamonds.
+
+### Relationship between cut and price
+```{r}
+set.seed(24)
+ggplot(diamonds %>% sample_n(1000), 
+       aes(color, price, col=color)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs (
+      title = "Relationship between cut and price", 
+      caption = "Data source: Diamonds ggplot2")
+```
+-> If we look at the color grading of diamonds and find that color grade J has the highest average price, it may be due to its rarity.
+
+### Relationship of diamond price
+```{r}
+set.seed(24)
+ggplot(diamonds %>% sample_n(1000),
+       aes(carat, price, col=cut)) +
+  geom_point() +
+  theme_minimal()+
+  scale_color_brewer(type = "qual", palette = 4) +
+  labs (
+      title = "Relationship of diamond price", 
+      caption = "Data source: Diamonds ggplot2")
+```
+-> The higher the quality and carat weight of a diamonds, the higher its price tends to be.
+
