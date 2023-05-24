@@ -8,7 +8,7 @@
 
 * Source of information: [data.world](https://data.world/)
 
-* Link to Tableau Public Dashboard 💣 :
+* Link to Tableau Public Dashboard 💣:
 
   * P1 = [Home](https://public.tableau.com/app/profile/patthapon/viz/SmartphoneMarket_16844149369470/DashP1)
 
