@@ -1,5 +1,6 @@
+# R Project: Exploratory Data Analysis of Diamonds
 ---
-title: "HW sprint05 data viz"
+title: "Data Visualization"
 author: "patthapon nilkrom"
 output: html_document
 ---
