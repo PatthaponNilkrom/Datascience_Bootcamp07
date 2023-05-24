@@ -79,7 +79,18 @@ p <- predict(lm_model, newdata = test_data)
 pglm <- predict(glm_model, newdata = test_data)
 
 # evaluate model
+# root mean square error
+rmse_train_lm <- lm_model$results$RMSE
+rmse_test_lm <- rmse_metric(test_data$Price, p)
+rmse_train_glm <- glm_model$results$RMSE
+rmse_test_glm <- rmse_metric(test_data$Price, pglm)
+
 cat("rmse_train_lm:" , lm_model$results$RMSE,
     "\nrmse_test_lm:" ,rmse_metric(test_data$Price, p),
     "\nrmse_train_glm:" , glm_model$results$RMSE,
     "\nrmse_test_glm:" ,rmse_metric(test_data$Price, pglm))
+
+# Accuracy
+ac_lm <- (1-(rmse_train_lm)**2)
+ac_glm <- (1-(rmse_train_glm)**2)
+cat(" Accuracy_lm:",round(ac_lm*100,2),"%\n","Accuracy_glm:",round(ac_glm*100,2), "%")
