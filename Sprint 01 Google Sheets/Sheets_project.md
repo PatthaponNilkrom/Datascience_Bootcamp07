@@ -1,4 +1,4 @@
-# Google Sheets 🐑
+# Google Sheets 🐑 
 ### Knowledge 📖
 * Data Entry
 * Array Formula
