@@ -1,3 +1,4 @@
+# R Project: Titanic survivor
 library(titanic)
 head(titanic_train)
 
