@@ -1,7 +1,7 @@
-# Tableau Public Dashboard
+# Tableau Public Dashboard 🧮
 (Change tools to try creating dashboards)
 
-### Smartphone Market
+### 📊 Smartphone Market
 * Description: the indian smartphone market on 2021
 
 * Objective: Insight analysis to find out the factors that affect the smartphone market share
