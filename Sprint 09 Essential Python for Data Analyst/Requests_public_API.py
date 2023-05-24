@@ -1,4 +1,4 @@
-# Python Project API: Requests public API
+# Python Project: Requests public API
 import requests
 import json
 from time import sleep
