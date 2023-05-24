@@ -1,5 +1,6 @@
 # 🚋 Data Transformation
-### 📖 Concept -> tidyverse (dplyr) -> dplyr packages -> Data Transformation
+### 📖 Knowledge 
+* Concept -> tidyverse (dplyr) -> dplyr packages -> Data Transformation
 * select -> เลือกช่วงข้อมูลที่สนใจ
 * filter -> กรองข้อมูลตามเงื่อนไข (Query)
 * mutate -> สร้างคอลั่มน์ใหม่
