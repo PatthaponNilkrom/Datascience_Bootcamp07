@@ -1,0 +1,25 @@
+### knowledge 📖
+- class
+- loop + dictionary
+- try except
+- assert
+- cvs , json, context manager
+- web scraping
+- numpy
+- Where
+- Merge -> join
+- pandas 
+- sqlite 
+- sklearn
+- regular expression
+- list comprehension
+- Basic API
+- Select columns
+- Filter dataframe -> Query
+- Cleansing data -> Fill Missing Values
+- Sort dataframe
+- Unique and Count
+- Describe -> summarize
+- Group by
+- Map
+- Visualization -> matplotlib
