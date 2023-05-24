@@ -1,4 +1,4 @@
-# Evaluate model 📑
+# Evaluate Model 📑
 
 🤖 Model: Linear Regression
 * Accuracy: 88.45 %
