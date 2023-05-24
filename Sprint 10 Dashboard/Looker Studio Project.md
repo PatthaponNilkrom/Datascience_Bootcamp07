@@ -5,4 +5,4 @@
 
 * Source of information : [data.world](https://data.world/)
 
-* Link to report 💣 : [Looker Studio Project](https://lookerstudio.google.com/reporting/e9ea3112-cb14-499c-9175-4a8bd7605a2a)
+* Link to report 💣: [Looker Studio Project](https://lookerstudio.google.com/reporting/e9ea3112-cb14-499c-9175-4a8bd7605a2a)
