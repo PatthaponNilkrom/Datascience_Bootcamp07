@@ -1,4 +1,7 @@
 # Evaluate Model 📑
+- Regression
+- Classification
+- K-Fold cross validation
 
 🤖 Model: Linear Regression
 * Accuracy: 88.45 %
