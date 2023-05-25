@@ -1,4 +1,4 @@
-### knowledge 📖
+### Knowledge 📖
 - Variables
 - Data types
 - Data structures
