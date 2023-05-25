@@ -7,6 +7,7 @@
 
 * Link to report 💣: [Looker Studio Project](https://lookerstudio.google.com/reporting/e9ea3112-cb14-499c-9175-4a8bd7605a2a)
 
+🚩 Certificate: [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/GmPTf2ITQHO_22lbI7qamw)
 
 # Tableau Public Dashboard 📈
 (Change tools to try creating dashboards)
