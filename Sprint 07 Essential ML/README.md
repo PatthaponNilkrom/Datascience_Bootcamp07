@@ -1,3 +1,4 @@
+# 🤖 Essential ML
 ### 📑 Knowledge
 - Simple ML Pipeline
 - build ML models
