@@ -1,3 +1,4 @@
+# 🛰️ Essential Python for Data Analyst
 ### 📑 Knowledge
 - class
 - loop + dictionary
