@@ -1,3 +1,4 @@
+# 🧮 Essential Statistics
 ### 📑 Knowledge
 - Statistics
 - Margin of error
