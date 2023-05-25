@@ -1,5 +1,5 @@
 # Google Sheets 🐑 
-### Knowledge 📖
+### 📑 Knowledge
 * Data Entry
 * Array Formula
 * Import Data
