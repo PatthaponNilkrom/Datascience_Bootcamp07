@@ -6,7 +6,7 @@ All my data project in the bootcamp. There are 10 sprints as follow
 - R programming 🔬
 - Data Transformation 🚋
 - Data Visualization 📊
-- Essential Statistics
+- Essential Statistics 🧮
 - Essential Machine Learning
 - Python Programming
 - Essential Python for Data Analyst
