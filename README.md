@@ -9,8 +9,8 @@ All my data project in the bootcamp. There are 10 sprints as follow
 - Essential Statistics 🧮
 - Essential Machine Learning 🤖
 - Python Programming ⚗️
-- Essential Python for Data Analyst
-- Dashboard
+- Essential Python for Data Analyst 🛰️
+- Dashboard 📉
 
 Verified Badge:
 
