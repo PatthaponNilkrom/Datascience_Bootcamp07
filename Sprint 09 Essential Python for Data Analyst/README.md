@@ -1,4 +1,4 @@
-### knowledge 📖
+### Knowledge 📖
 - class
 - loop + dictionary
 - try except
