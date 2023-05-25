@@ -1,4 +1,4 @@
-### Knowledge 📖
+### 📑 Knowledge
 - Probability sampling
   - Simple Random Sampling (SRS)
   - Systemetic random sampling
