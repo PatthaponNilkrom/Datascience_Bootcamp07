@@ -1,4 +1,4 @@
-### Knowledge 📖
+### 📑 Knowledge
 - Simple ML Pipeline
 - build ML models
 - Supervised
