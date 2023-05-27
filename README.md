@@ -12,5 +12,4 @@ All my data project in the bootcamp. There are 10 sprints as follow
 - Essential Python for Data Analyst 🛰️
 - Dashboard 📉
 
-Verified Badge:
-
+Verified Badge 🚩: Comingsoon
